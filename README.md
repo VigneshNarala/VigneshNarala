@@ -1,120 +1,138 @@
-# PROJECT_NAME — Autonomous Robotics System
+<!-- Hero Section -->
+<div align="center">
+  
+  <h1>Vignesh Narala</h1>
+  <h3>Full Stack Engineer · React Native · Data Science · Robotics Lead</h3>
 
-Short one‑line description of what the robot does and where it’s used.
+  <br/>
 
----
+  <!-- Badges -->
+  <a href="https://www.linkedin.com/in/vignesh-narala-6959132ab/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vigneshnarala135@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/VigneshNarala" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-## 1. Overview
+  <br/><br/>
 
-- What the robot does (maze solving, line following, edge following, etc.).  
-- Where it would realistically be used (labs, competitions, educational kits, etc.).  
-- High‑level architecture: sensors → control algorithm → actuators.
-
-Example:  
-“This project implements an autonomous maze‑solving robot using the Flood‑Fill algorithm and PID‑based motion control, designed for micromouse‑style mazes.”  
-
----
-
-## 2. System Architecture
-
-### Hardware
-
-- Microcontroller: Arduino UNO / Nano / other.  
-- Sensors: IR array, ultrasonic sensors, encoders, etc.  
-- Actuators: DC motors, motor driver (L298N / TB6612FNG), servos.  
-- Power: battery pack, voltage levels, any regulators.
-
-### Software
-
-- Language: C / C++ for Arduino.  
-- Core modules:  
-  - `sensors/` — reading and filtering sensor data.  
-  - `control/` — PID or other control logic.  
-  - `navigation/` — Flood‑Fill / pathfinding, edge logic.  
-  - `drivers/` — motor driver, encoder handling.
+  <i>Building systems that scale — from full‑stack apps and mobile clients to autonomous robots.</i>
+</div>
 
 ---
 
-## 3. Algorithms & Control
+## 👋 About Me
 
-### Flood‑Fill Maze Solving
-
-- Brief explanation of Flood‑Fill in your own words.  
-- How you represent the maze (grid, cell weights).  
-- How the robot updates the grid as it explores.
-
-### PID‑Based Motion Control
-
-- What variables you control (position, speed, heading).  
-- How you chose gains (Kp, Ki, Kd) and tuned them.  
-- Mention key results (e.g., ±2mm tracking accuracy).
+- B.Tech **Computer Science (Data Science)** @ Aditya University (CGPA 8.23).  
+- Full Stack Engineer working across **MERN, React Native**, and data‑driven product features.  
+- Robotics Team Lead with hands‑on experience in **maze solving, edge following, and PID‑based control** in real environments.  
+- I care about clean architecture, performance, and making complex systems feel simple for end users.
 
 ---
 
-## 4. Features & Results
+## 🏗 Engineering Experience
 
-- Maze navigation accuracy and runtime.  
-- Collision reduction using ultrasonic / IR sensors.  
-- Terrain success rate and robustness to noise.  
-- Any competition or demo outcomes.
+### Full Stack Developer Trainee · Technical Hub · (May 2025 – Mar 2026)
+- Architected and deployed **5+ scalable MERN applications** consumed via web and mobile clients.  
+- Profiled backend and database bottlenecks, achieving a **43.7% reduction in load time** (3.2s → 1.8s) through query optimization and caching.  
+- Implemented RESTful APIs with strong validation, logging, and error handling, making systems easier to operate and debug.
 
----
-
-## 5. Getting Started
-
-### Prerequisites
-
-- Arduino IDE (version).  
-- Required libraries (e.g., `PID_v1`, sensor libraries).  
-- Hardware list.
-
-### Setup
-
-1. Clone the repo.  
-2. Open `src/PROJECT_NAME.ino` in Arduino IDE.  
-3. Adjust configuration (sensor pins, motor pins, gains) in `config.h`.  
-4. Upload to the board.  
-5. Place the robot in the maze / track and power on.
+### Robotics Team Lead · Aditya University Robotics Club · (Oct 2024 – May 2025)
+- Led a **15‑member cross‑functional team** (hardware, firmware, software) using Agile practices.  
+- Mentored 8 junior developers, improving delivery velocity by **~40%** via better modular design, reviews, and testing.  
+- Delivered robots that can **navigate mazes, follow edges, and maintain precise trajectories** under noisy real‑world conditions.
 
 ---
 
-## 6. Repository Structure
+## 🧠 Tech Stack
 
-```text
-PROJECT_NAME/
-  ├── src/
-  │   ├── main.ino
-  │   ├── sensors/
-  │   ├── control/
-  │   ├── navigation/
-  │   └── drivers/
-  ├── docs/
-  │   ├── wiring-diagram.png
-  │   └── tuning-notes.md
-  ├── config.h
-  ├── README.md
-  └── LICENSE
-```
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,next,nodejs,express,html,css,tailwind,mongodb,mysql,python,cpp,java,tensorflow,linux,git,arduino,docker,aws&theme=light&perline=10" />
+</div>
 
-Explain briefly how to navigate the code (which file to read first).
+### Core Skills
+
+- **Frontend & Mobile**: React, React Native, Next.js, Tailwind CSS, component‑driven UIs, responsive design.  
+- **Backend**: Node.js, Express, REST APIs, MongoDB, MySQL, authentication & authorization.  
+- **AI & Data**: Python, Machine Learning, analytics dashboards, recruitment‑focused scoring models.  
+- **Robotics & Embedded**: C/C++, Arduino, PID control, sensor fusion, hardware‑software integration.  
 
 ---
 
-## 7. Tuning & Troubleshooting
+## 📌 Highlight Projects
 
-- How to tune PID gains (what happens if Kp/Ki/Kd are off).  
-- Common issues (sensor noise, drift, overshooting corners) and fixes.  
-- Tips for different maze layouts or line colors.
+### 1️⃣ SmartHire · AI‑Driven Recruitment Engine
+> Stack: React, React Native (planned), Next.js, Node.js, MongoDB, AI/ML
 
----
-
-## 8. Future Work
-
-- Ideas like IMU integration, better localization, vision, or React Native app for telemetry.  
-- Refactoring into libraries for reuse in other robots.
+- Designed a proprietary **Verified Skill Score** that parses GitHub commit graphs and LinkedIn signals to validate candidate technical depth.  
+- Built role‑specific analytics dashboards for university placement cells, enabling better **candidate–role matching** and reducing manual screening effort.  
+- Architected the backend and API surfaces to be consumable by both web and mobile (React Native) clients.
 
 ---
 
-## 9. License
+### 2️⃣ Autonomous Robotics · Maze‑Solver & Edge‑Follower
+> Stack: C, C++, Arduino, Embedded Systems
 
-Mention license (MIT, etc.) and how others can reuse or extend the project.
+- Implemented **Flood‑Fill maze navigation**, achieving ~**95% pathfinding accuracy** and reducing runtime by **30%** with optimized search.  
+- Integrated ultrasonic sensor arrays, reducing collision frequency by ~**80%** in dense obstacle layouts.  
+- Developed a custom **PID controller** delivering **±2mm tracking accuracy** and an **87.5% terrain success rate** across varied terrain.
+
+---
+
+### 3️⃣ High‑Performance Interfaces · Skillhance & Interview Decoders
+> Stack: HTML5, CSS3, JavaScript
+
+- Refactored CSS and layout strategy to cut **mobile DOM rendering time by ~25%**.  
+- Implemented advanced client‑side form validation with structured rules, eliminating **~95% invalid submissions** before they ever hit the server.  
+- Designed clean, responsive UIs focused on readability, clarity, and fast user feedback.
+
+---
+
+## 📊 Telemetry & Activity
+
+<div align="center">
+
+  <!-- LeetCode & GitHub Stats -->
+  <img src="https://leetcard.jacoblin.cool/VigneshNarala?theme=dark&font=Inter&ext=activity" alt="LeetCode Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VigneshNarala&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=888888" alt="GitHub Stats" width="48%"/>
+
+  <br/><br/>
+
+  <!-- Streak & Activity Graph -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VigneshNarala&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=888888&sideLabels=888888&dates=888888" alt="GitHub Streak" width="98%"/>
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VigneshNarala&bg_color=transparent&color=FFFFFF&line=888888&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="98%"/>
+
+  <br/><br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VigneshNarala/VigneshNarala/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VigneshNarala/VigneshNarala/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/VigneshNarala/VigneshNarala/output/github-contribution-grid-snake.svg" width="98%">
+  </picture>
+
+</div>
+
+---
+
+## 🧭 What I’m Learning / Exploring
+
+- **React Native** for mobile clients that share logic with full‑stack web apps.  
+- **Docker & Containerization** for reproducible dev/prod environments.  
+- **AWS** (EC2, S3, Lambda, API Gateway) for scalable deployment.  
+- **GitHub Actions** to automate CI/CD pipelines for full‑stack apps and ML experiments.
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: [Vignesh Narala](https://www.linkedin.com/in/vignesh-narala-6959132ab/)  
+- 🧑‍💻 GitHub: [@VigneshNarala](https://github.com/VigneshNarala)  
+- 📫 Email: `vigneshnarala135@gmail.com`  
+
+If you’re building products at the intersection of **full‑stack, mobile, AI, and robotics**, I’d love to collaborate.
