@@ -1,8 +1,8 @@
 <!-- Hero Section -->
 <div align="center">
   
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Vignesh+Narala;Full+Stack+Engineer;Data+Scientist;Robotics+Team+Lead" alt="Typing SVG" />
+  <h1>Vignesh Narala</h1>
+  <h3>Full Stack Engineer · React Native · Data Science · Robotics Lead</h3>
 
   <br/>
 
@@ -19,57 +19,57 @@
 
   <br/><br/>
 
-  <i>Building systems that scale — from web platforms to autonomous robots.</i>
+  <i>Building systems that scale — from full‑stack apps and mobile clients to autonomous robots.</i>
 </div>
 
 ---
 
 ## 👋 About Me
 
-- B.Tech **Computer Science (Data Science)** @ Aditya University (CGPA 8.23)  
-- Full Stack Engineer with a focus on **scalable web architecture, AI integration, and embedded systems**  
-- I love turning ambiguous product ideas into measurable impact: performance gains, reliability, and real‑world automation.  
-- Currently deep‑diving into **Docker, AWS, and GitHub Actions** for production‑grade workflows.
+- B.Tech **Computer Science (Data Science)** @ Aditya University (CGPA 8.23).  
+- Full Stack Engineer working across **MERN, React Native**, and data‑driven product features.  
+- Robotics Team Lead with hands‑on experience in **maze solving, edge following, and PID‑based control** in real environments.  
+- I care about clean architecture, performance, and making complex systems feel simple for end users.
 
 ---
 
 ## 🏗 Engineering Experience
 
 ### Full Stack Developer Trainee · Technical Hub · (May 2025 – Mar 2026)
-- Architected and deployed **5+ scalable MERN applications** serving real users in production.  
+- Architected and deployed **5+ scalable MERN applications** consumed via web and mobile clients.  
 - Profiled backend and database bottlenecks, achieving a **43.7% reduction in load time** (3.2s → 1.8s) through query optimization and caching.  
-- Implemented RESTful APIs with strong validation and logging, improving reliability and ease of debugging.
+- Implemented RESTful APIs with strong validation, logging, and error handling, making systems easier to operate and debug.
 
 ### Robotics Team Lead · Aditya University Robotics Club · (Oct 2024 – May 2025)
 - Led a **15‑member cross‑functional team** (hardware, firmware, software) using Agile practices.  
-- Personally mentored 8 junior developers, improving team delivery velocity by **~40%** via better code review and modular design.  
-- Delivered robots that can **navigate mazes, follow edges, and maintain precise trajectories** under real‑world constraints.
+- Mentored 8 junior developers, improving delivery velocity by **~40%** via better modular design, reviews, and testing.  
+- Delivered robots that can **navigate mazes, follow edges, and maintain precise trajectories** under noisy real‑world conditions.
 
 ---
 
 ## 🧠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,html,css,react,next,tailwind,nodejs,express,mongodb,mysql,tensorflow,linux,git,arduino,docker,aws&theme=light&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,next,nodejs,express,html,css,tailwind,mongodb,mysql,python,cpp,java,tensorflow,linux,git,arduino,docker,aws&theme=light&perline=10" />
 </div>
 
 ### Core Skills
 
-- **Frontend**: React, Next.js, Tailwind CSS, modern component‑driven architectures  
-- **Backend**: Node.js, Express, REST APIs, MongoDB, MySQL, authentication & authorization  
-- **AI & Data**: Python, Machine Learning, basic MLOps, data pipelines  
-- **Robotics & Embedded**: C/C++, Arduino, PID control, sensor fusion, hardware‑software integration  
+- **Frontend & Mobile**: React, React Native, Next.js, Tailwind CSS, component‑driven UIs, responsive design.  
+- **Backend**: Node.js, Express, REST APIs, MongoDB, MySQL, authentication & authorization.  
+- **AI & Data**: Python, Machine Learning, analytics dashboards, recruitment‑focused scoring models.  
+- **Robotics & Embedded**: C/C++, Arduino, PID control, sensor fusion, hardware‑software integration.  
 
 ---
 
 ## 📌 Highlight Projects
 
 ### 1️⃣ SmartHire · AI‑Driven Recruitment Engine
-> Stack: React, Next.js, Node.js, MongoDB, AI/ML
+> Stack: React, React Native (planned), Next.js, Node.js, MongoDB, AI/ML
 
 - Designed a proprietary **Verified Skill Score** that parses GitHub commit graphs and LinkedIn signals to validate candidate technical depth.  
 - Built role‑specific analytics dashboards for university placement cells, enabling better **candidate–role matching** and reducing manual screening effort.  
-- Focused on clear, actionable UI — hiring teams can see **skills, activity, and fit** at a glance.
+- Architected the backend and API surfaces to be consumable by both web and mobile (React Native) clients.
 
 ---
 
@@ -78,7 +78,7 @@
 
 - Implemented **Flood‑Fill maze navigation**, achieving ~**95% pathfinding accuracy** and reducing runtime by **30%** with optimized search.  
 - Integrated ultrasonic sensor arrays, reducing collision frequency by ~**80%** in dense obstacle layouts.  
-- Developed a custom **PID controller** delivering **±2mm tracking accuracy** and an **87.5% terrain success rate** across varying surfaces.
+- Developed a custom **PID controller** delivering **±2mm tracking accuracy** and an **87.5% terrain success rate** across varied terrain.
 
 ---
 
@@ -87,7 +87,7 @@
 
 - Refactored CSS and layout strategy to cut **mobile DOM rendering time by ~25%**.  
 - Implemented advanced client‑side form validation with structured rules, eliminating **~95% invalid submissions** before they ever hit the server.  
-- Designed clean, responsive UIs focused on readability, clarity, and fast interaction.
+- Designed clean, responsive UIs focused on readability, clarity, and fast user feedback.
 
 ---
 
@@ -122,9 +122,10 @@
 
 ## 🧭 What I’m Learning / Exploring
 
-- **Docker & Containerization** for reproducible dev/prod environments  
-- **AWS** (EC2, S3, Lambda, API Gateway) for scalable deployment  
-- **GitHub Actions** to automate CI/CD pipelines for full‑stack apps and ML experiments  
+- **React Native** for mobile clients that share logic with full‑stack web apps.  
+- **Docker & Containerization** for reproducible dev/prod environments.  
+- **AWS** (EC2, S3, Lambda, API Gateway) for scalable deployment.  
+- **GitHub Actions** to automate CI/CD pipelines for full‑stack apps and ML experiments.
 
 ---
 
@@ -134,4 +135,4 @@
 - 🧑‍💻 GitHub: [@VigneshNarala](https://github.com/VigneshNarala)  
 - 📫 Email: `vigneshnarala135@gmail.com`  
 
-If you’re building products at the intersection of **web, AI, and robotics**, I’d love to collaborate.
+If you’re building products at the intersection of **full‑stack, mobile, AI, and robotics**, I’d love to collaborate.
