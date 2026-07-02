@@ -1,139 +1,104 @@
-<!-- HERO SECTION -->
-<div align="center">
+# Vignesh Narala
 
-  <h1>Vignesh Narala</h1>
-  <h3>Full Stack Engineer · Data Scientist · Robotics Team Lead</h3>
+**Full Stack Engineer · Data Science · Robotics**
 
-  <br/>
-
-  <!-- Social Badges -->
-  <a href="https://www.linkedin.com/in/vignesh-narala-6959132ab" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vigneshnarala135@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/VigneshNarala" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <br/><br/>
-
-  <i>Building systems that scale — from web platforms to autonomous robots.</i>
-
-</div>
+Andhra Pradesh, India · `vigneshnarala135@gmail.com` · [LinkedIn](https://www.linkedin.com/in/vignesh-narala-6959132ab) · [GitHub](https://github.com/VigneshNarala)
 
 ---
 
-## 👋 About Me
+## Profile
 
-- B.Tech **Computer Science (Data Science)** @ Aditya University (CGPA: 8.23).  
-- Full Stack Engineer focused on **MERN**, performance optimization, and clean API design.  
-- Data‑driven problem solver applying ML to recruitment workflows and telemetry analysis.  
-- Robotics team lead, comfortable bridging hardware, firmware, and software in real‑world environments.
+I design and build **end‑to‑end systems**: web platforms on MERN, analytics pipelines for recruitment, and autonomous robots that operate in real environments.  
+My focus is on clear architecture, observability, and performance — so teams can ship fast without sacrificing reliability.
 
 ---
 
-## 🧠 Tech Stack
+## Technical Focus Areas
 
-<div align="center">
+- **Application Architecture**  
+  - Layered services, clear API contracts, separation of concerns.  
+  - Domain‑driven thinking applied pragmatically to product features.
 
-  <!-- Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,html,css,tailwind,mongodb,mysql,python,cpp,java,tensorflow,git,github,linux,arduino,docker,aws&perline=10" alt="Tech Stack" />
+- **Backend & Data**  
+  - Node.js, Express, REST APIs, MongoDB/MySQL.  
+  - Query optimization, caching strategies, and logging for debuggable systems.  
 
-</div>
+- **Frontend Engineering**  
+  - React, Next.js, Tailwind CSS.  
+  - Component libraries, state management, accessible and responsive UIs.  
 
-### Core Domains
-
-- **Frontend**: React, Next.js, Tailwind CSS, component systems, responsive UX.  
-- **Backend**: Node.js, Express, REST APIs, MongoDB/MySQL, auth, logging, error handling.  
-- **Data & AI**: Python, ML basics, scoring algorithms, analytics dashboards.  
-- **Robotics & Embedded**: C/C++, Arduino, PID control, ultrasonic sensors, maze/edge navigation.  
+- **Robotics & Control Systems**  
+  - C/C++, Arduino, sensor fusion.  
+  - PID control, pathfinding, and real‑world constraints (noise, latency, terrain).
 
 ---
 
-## 🏗 Engineering Experience
+## Selected Experience
 
 ### Full Stack Developer Trainee · Technical Hub · (May 2025 – Mar 2026)
-- Architected and deployed **5+ scalable MERN applications** into production.  
-- Profiled bottlenecks and optimized DB queries, achieving **43.7% faster load times** (3.2s → 1.8s).  
-- Implemented robust validation and structured logging for easier debugging and maintenance.
+
+- Built **5+ MERN applications** with a focus on clear module boundaries and maintainable code.  
+- Reduced end‑user load time by **43.7%** (3.2s → 1.8s) through query optimization and caching.  
+- Standardized validation, error handling, and logging patterns across services.
 
 ### Robotics Team Lead · Aditya University Robotics Club · (Oct 2024 – May 2025)
-- Led a **15‑member cross‑functional robotics team** with Agile practices.  
-- Mentored 8 junior engineers, improving delivery velocity by **~40%** through better reviews and modular design.  
-- Delivered robots capable of **maze solving, edge following, and precise path tracking** under environmental constraints.
+
+- Led a **15‑member team** integrating hardware, firmware, and software.  
+- Implemented Flood‑Fill navigation and PID‑based edge following with high accuracy in noisy environments.  
+- Mentored 8 junior developers on modular design, testing, and documentation.
 
 ---
 
-## 🚩 Product‑Oriented Case Studies
+## Representative Projects
 
-### 1️⃣ SmartHire · AI‑Driven Recruitment Engine
-> Stack: React, Next.js, Node.js, MongoDB, AI/ML
+### SmartHire · AI‑Driven Recruitment Engine
 
-- Built a **Verified Skill Score** that analyzes GitHub commits and LinkedIn signals to validate candidate skill levels.  
-- Shipped analytics dashboards tailored for **placement cells and hiring teams** for data‑driven candidate allocation.  
-- Designed clear, high‑signal UIs that surface skills, activity, and fit at a glance.
+- MERN‑based platform with a **Verified Skill Score** that uses GitHub and LinkedIn signals to evaluate candidates.  
+- Role‑based dashboards that surface signal over noise for placement cells and hiring teams.  
+- Emphasis on auditability and explainability of scoring, not just black‑box models.
 
----
+### Autonomous Robotics · Maze‑Solver & Edge‑Follower
 
-### 2️⃣ Autonomous Robotics · Maze‑Solver & Edge‑Follower
-> Stack: C, C++, Arduino, Embedded Systems
+- Flood‑Fill pathfinding with ~**95% accuracy** and **30% faster** runtime after algorithm tuning.  
+- Custom PID controller with **±2mm tracking accuracy** and **87.5% terrain success rate**.  
+- Designed code and wiring in a way that new sensors or motors can be swapped with minimal changes.
 
-- Implemented **Flood‑Fill** pathfinding with ~**95% accuracy** and **30% faster** runtime.  
-- Integrated ultrasonic sensor arrays, reducing collision frequency by ~**80%**.  
-- Designed a custom **PID controller** achieving **±2mm tracking accuracy** and an **87.5% terrain success rate**.
+### High‑Performance Interfaces · Skillhance & Interview Decoders
 
----
-
-### 3️⃣ High‑Performance Interfaces · Skillhance & Interview Decoders
-> Stack: HTML5, CSS3, JavaScript
-
-- Refactored CSS/layout to reduce **mobile DOM render time by ~25%**.  
-- Built structured client‑side validation eliminating ~**95% invalid submissions** before reaching the backend.  
-- Delivered responsive, accessible UIs that stay fast under real‑world usage.
+- Front‑end refactors cutting **mobile render time by ~25%**.  
+- Structured validation eliminating **~95% invalid submissions** before they hit the backend.  
+- Focus on clear hierarchy and predictable interactions for end users.
 
 ---
 
-## 📊 GitHub Telemetry
+## Skills Snapshot
 
-<div align="center">
+<div align="left">
 
-  <!-- GitHub Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VigneshNarala&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=FFFFFF&icon_color=FFFFFF&text_color=888888" alt="GitHub Stats" />
-
-  <br/><br/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshNarala&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=888888" alt="Top Languages" />
-
-  <br/><br/>
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VigneshNarala&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=888888&sideLabels=888888&dates=888888" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VigneshNarala&bg_color=transparent&color=FFFFFF&line=888888&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,tailwind,mongodb,mysql,python,cpp,java,tensorflow,git,github,linux,arduino,docker,aws&perline=9" alt="Tech Stack" />
 
 </div>
 
----
-
-## 🧭 Engineering Principles
-
-- **Impact first** – performance, reliability, and maintainability over clever hacks.  
-- **Observability** – logs, metrics, and traces are built in from day one.  
-- **Automation** – CI/CD, linting, and tests integrated into everyday development.  
-- **Collaboration** – documentation, reviews, and mentoring as part of the workflow.
+Core tools: React · Next.js · Node.js · Express · MongoDB · MySQL · Python · C++ · Arduino · Docker · AWS.
 
 ---
 
-## 🤝 Let’s Connect
+## Activity (Signals)
 
-- 💼 LinkedIn: [Vignesh Narala](https://www.linkedin.com/in/vignesh-narala-6959132ab)  
-- 🧑‍💻 GitHub: [@VigneshNarala](https://github.com/VigneshNarala)  
-- 📫 Email: `vigneshnarala135@gmail.com`  
+<div align="left">
 
-Open to roles at **product‑based companies** working on full‑stack platforms, AI‑driven systems, and robotics‑aligned products.
+<img src="https://github-readme-stats.vercel.app/api?username=VigneshNarala&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+
+</div>
+
+I use GitHub as a **working log** of experiments, production code, and robotics work — pinned repositories highlight the systems I’m most proud of.
+
+---
+
+## Contact
+
+For roles involving **full‑stack platforms, developer tooling, data‑driven products, or robotics‑adjacent systems**, feel free to reach out:
+
+- Email: `vigneshnarala135@gmail.com`  
+- LinkedIn: [Vignesh Narala](https://www.linkedin.com/in/vignesh-narala-6959132ab)  
+- GitHub: [@VigneshNarala](https://github.com/VigneshNarala)
