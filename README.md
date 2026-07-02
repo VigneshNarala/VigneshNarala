@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/vigneshnarala" target="_blank">
+  <a href="https://www.linkedin.com/in/vignesh-narala-6959132ab/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:vigneshnarala135@gmail.com">
