@@ -1,10 +1,10 @@
 <!-- HERO SECTION -->
 <div align="center">
 
-  <!-- Dynamic Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Vignesh+Narala;Full+Stack+Engineer;Data+Scientist;Robotics+Team+Lead;Building+Systems+That+Scale" alt="Typing SVG" />
+  <h1>Vignesh Narala</h1>
+  <h3>Full Stack Engineer · Data Scientist · Robotics Team Lead</h3>
 
-  <br/><br/>
+  <br/>
 
   <!-- Social Badges -->
   <a href="https://www.linkedin.com/in/vignesh-narala-6959132ab" target="_blank">
@@ -19,7 +19,7 @@
 
   <br/><br/>
 
-  <i>Full‑stack, data, and robotics — aligned around measurable product impact.</i>
+  <i>Building systems that scale — from web platforms to autonomous robots.</i>
 
 </div>
 
@@ -28,9 +28,9 @@
 ## 👋 About Me
 
 - B.Tech **Computer Science (Data Science)** @ Aditya University (CGPA: 8.23).  
-- Full Stack Engineer working across **MERN**, real‑time dashboards, and AI‑powered recruitment systems.  
-- Robotics team lead with experience in **maze‑solving, edge following, and PID‑based control** for physical systems.  
-- I enjoy designing systems that scale: from REST APIs and UI state management to sensor fusion and control loops.
+- Full Stack Engineer focused on **MERN**, performance optimization, and clean API design.  
+- Data‑driven problem solver applying ML to recruitment workflows and telemetry analysis.  
+- Robotics team lead, comfortable bridging hardware, firmware, and software in real‑world environments.
 
 ---
 
@@ -45,57 +45,57 @@
 
 ### Core Domains
 
-- **Frontend**: React, Next.js, Tailwind CSS, component‑driven design, responsive UIs.  
-- **Backend**: Node.js, Express, REST APIs, MongoDB/MySQL, authentication/authorization.  
-- **Data & AI**: Python, ML basics, analytics dashboards, recruitment‑focused scoring models.  
-- **Robotics & Embedded**: C/C++, Arduino, PID control, ultrasonic sensors, hardware‑software integration.  
+- **Frontend**: React, Next.js, Tailwind CSS, component systems, responsive UX.  
+- **Backend**: Node.js, Express, REST APIs, MongoDB/MySQL, auth, logging, error handling.  
+- **Data & AI**: Python, ML basics, scoring algorithms, analytics dashboards.  
+- **Robotics & Embedded**: C/C++, Arduino, PID control, ultrasonic sensors, maze/edge navigation.  
 
 ---
 
 ## 🏗 Engineering Experience
 
 ### Full Stack Developer Trainee · Technical Hub · (May 2025 – Mar 2026)
-- Built and shipped **5+ production‑ready MERN applications** with emphasis on clean architecture.  
-- Profiled backend and DB bottlenecks, achieving a **43.7% reduction in load time** (3.2s → 1.8s) via query optimization and caching.  
-- Implemented robust validation, logging, and error handling to make systems easy to debug and maintain.
+- Architected and deployed **5+ scalable MERN applications** into production.  
+- Profiled bottlenecks and optimized DB queries, achieving **43.7% faster load times** (3.2s → 1.8s).  
+- Implemented robust validation and structured logging for easier debugging and maintenance.
 
 ### Robotics Team Lead · Aditya University Robotics Club · (Oct 2024 – May 2025)
-- Led a **15‑member cross‑functional team** (hardware, firmware, software) with Agile practices.  
-- Mentored 8 junior engineers, improving delivery velocity by **~40%** through better modular design and reviews.  
-- Delivered robots capable of **maze navigation, edge following, and precise path tracking** in varied environments.
+- Led a **15‑member cross‑functional robotics team** with Agile practices.  
+- Mentored 8 junior engineers, improving delivery velocity by **~40%** through better reviews and modular design.  
+- Delivered robots capable of **maze solving, edge following, and precise path tracking** under environmental constraints.
 
 ---
 
-## 🚩 Product‑Focused Case Studies
+## 🚩 Product‑Oriented Case Studies
 
 ### 1️⃣ SmartHire · AI‑Driven Recruitment Engine
 > Stack: React, Next.js, Node.js, MongoDB, AI/ML
 
-- Designed a **Verified Skill Score** that analyzes GitHub commit graphs and LinkedIn telemetry to validate candidate skills in real time.  
-- Shipped analytics dashboards tailored for **placement cells and hiring managers**, enabling data‑driven candidate allocation.  
-- Focused heavily on UX: clear visual hierarchy, fast interactions, and actionable insights for non‑technical users.
+- Built a **Verified Skill Score** that analyzes GitHub commits and LinkedIn signals to validate candidate skill levels.  
+- Shipped analytics dashboards tailored for **placement cells and hiring teams** for data‑driven candidate allocation.  
+- Designed clear, high‑signal UIs that surface skills, activity, and fit at a glance.
 
 ---
 
 ### 2️⃣ Autonomous Robotics · Maze‑Solver & Edge‑Follower
 > Stack: C, C++, Arduino, Embedded Systems
 
-- Implemented **Flood‑Fill pathfinding** with ~**95% accuracy**, reducing execution time by **30%** through algorithmic tuning.  
-- Integrated ultrasonic sensor arrays, reducing collisions by ~**80%** in obstacle‑rich environments.  
-- Built a custom **PID controller** achieving **±2mm tracking accuracy** and an **87.5% terrain success rate**.
+- Implemented **Flood‑Fill** pathfinding with ~**95% accuracy** and **30% faster** runtime.  
+- Integrated ultrasonic sensor arrays, reducing collision frequency by ~**80%**.  
+- Designed a custom **PID controller** achieving **±2mm tracking accuracy** and an **87.5% terrain success rate**.
 
 ---
 
 ### 3️⃣ High‑Performance Interfaces · Skillhance & Interview Decoders
 > Stack: HTML5, CSS3, JavaScript
 
-- Optimized front‑end code and CSS structure to cut **mobile DOM render time by ~25%**.  
-- Created structured client‑side validation pipelines, eliminating ~**95% invalid form submissions** before hitting the backend.  
-- Delivered clean, responsive UIs that balance aesthetics with performance and accessibility.
+- Refactored CSS/layout to reduce **mobile DOM render time by ~25%**.  
+- Built structured client‑side validation eliminating ~**95% invalid submissions** before reaching the backend.  
+- Delivered responsive, accessible UIs that stay fast under real‑world usage.
 
 ---
 
-## 📊 Real‑Time Telemetry
+## 📊 GitHub Telemetry
 
 <div align="center">
 
@@ -121,19 +121,19 @@
 
 ---
 
-## 🧭 How I Work
+## 🧭 Engineering Principles
 
-- **Impact‑oriented**: Performance, reliability, and maintainability over pure cleverness.  
-- **Data‑driven**: Metrics and logs as first‑class citizens across web and robotics systems.  
-- **Automation‑focused**: CI/CD, linting, and tests integrated early into the pipeline.  
-- **Collaborative**: Code reviews, documentation, and mentoring as part of day‑to‑day work.
+- **Impact first** – performance, reliability, and maintainability over clever hacks.  
+- **Observability** – logs, metrics, and traces are built in from day one.  
+- **Automation** – CI/CD, linting, and tests integrated into everyday development.  
+- **Collaboration** – documentation, reviews, and mentoring as part of the workflow.
 
 ---
 
-## 🤝 Let’s Build Something
+## 🤝 Let’s Connect
 
 - 💼 LinkedIn: [Vignesh Narala](https://www.linkedin.com/in/vignesh-narala-6959132ab)  
 - 🧑‍💻 GitHub: [@VigneshNarala](https://github.com/VigneshNarala)  
 - 📫 Email: `vigneshnarala135@gmail.com`  
 
-If you’re building products at the intersection of **web, AI, and robotics**, I’d love to collaborate.
+Open to roles at **product‑based companies** working on full‑stack platforms, AI‑driven systems, and robotics‑aligned products.
