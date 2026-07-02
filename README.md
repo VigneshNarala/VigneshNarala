@@ -1,126 +1,120 @@
+<!-- HERO SECTION -->
 <div align="center">
-  <a href="https://github.com/VigneshNarala">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CC9F0,100:F72585&height=250&section=header&text=Vignesh%20Narala&fontSize=70&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Data%20Scientist%20%7C%20Robotics%20Lead&descAlignY=55&descSize=18&animation=fadeIn" alt="Header" />
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/vignesh-narala-6959132ab/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vigneshnarala135@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/VigneshNarala">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
+  <!-- Dynamic Typing Effect -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+YOUR+NAME;Software+Engineer;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
 
-<br/>
-
-<div align="center">
-  <h3> Engineering scalable web systems, intelligent data solutions, and precision robotics. </h3>
-  <i>B.Tech in Computer Science (Data Science) @ Aditya University | CGPA: 8.23</i>
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VigneshNarala&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="VigneshNarala's Trophies" />
-  </a>
-</div>
-
----
-
-## 💼 Professional Experience & Impact
-
-**Full Stack Developer Trainee** @ *Technical Hub* `(May 2025 - Mar 2026)`
-- Engineered **5+ highly scalable web applications** utilizing the MERN stack (MongoDB, Express, React, Node.js).
-- **Performance Optimization:** Successfully profiled and optimized database queries and frontend rendering, reducing application load times by **43.7%** (from 3.2s to 1.8s).
-
-**Robotics Team Lead** @ *Aditya University Robotics Club* `(Oct 2024 - May 2025)`
-- Directed a cross-functional Agile team of **15 members** in complex hardware-software integrations.
-- **Leadership & Mentorship:** Mentored 8 junior developers, increasing overall team technical proficiency by **40%** and successfully shipping multiple autonomous robotics projects.
-
----
-
-## 🛠️ Technical Mastery
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><b>Programming & Scripting</b></td>
-    <td align="center" width="25%"><b>Frontend & UI/UX</b></td>
-    <td align="center" width="25%"><b>Backend & Databases</b></td>
-    <td align="center" width="25%"><b>AI, Tools & Hardware</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js&theme=dark&perline=3" alt="Programming Languages"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=3" alt="Frontend Frameworks"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark&perline=3" alt="Backend Infrastructure"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tensorflow,linux,git,arduino&theme=dark&perline=3" alt="AI and Hardware"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 Key Engineering Projects
-
-### 🧠 SmartHire (AI-Driven Recruitment Platform)
-*React, Next.js, Node.js, AI Integration*
-- **Impact:** Engineered a **"Verified Skill Score"** algorithm parsing real-time GitHub commit histories and LinkedIn activity to programmatically validate candidate technical proficiency.
-- **Scale:** Built role-specific dashboards utilized by university placement cells, significantly enhancing the transparency and efficiency of top-tier candidate allocation.
-
-### 🤖 Autonomous Maze-Solver & Edge-Following Robots
-*C, C++, Embedded Systems, Arduino, PID Controllers*
-- **Maze Solver:** Implemented the Flood-Fill algorithm, achieving **95% navigation accuracy** and reducing execution runtime by **30%** through algorithmic optimization. Cut collision rates by 80% using integrated ultrasonic sensor arrays.
-- **Edge-Follower:** Designed a custom PID control system achieving a **±2mm tracking accuracy** and an **87.5% success rate** across highly varied and unpredictable terrain conditions.
-
-### ⚡ Performance & Usability Engineering (Skillhance & Interview Decoders)
-*HTML5, CSS3, JavaScript*
-- **Optimization:** Enhanced mobile rendering performance by **25%** through rigorous CSS optimization and eliminated **95%** of invalid form submissions via advanced client-side structured validation logic, ensuring high data integrity.
-
----
-
-## 📈 Advanced Analytics & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VigneshNarala&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4CC9F0&icon_color=F72585&text_color=FFFFFF" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VigneshNarala&theme=tokyonight&hide_border=true&background=0D1117&ring=4CC9F0&fire=F72585&currStreakNum=FFFFFF" alt="GitHub Streak" width="48%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VigneshNarala&bg_color=0D1117&color=4CC9F0&line=F72585&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="98%"/>
-</div>
-
-<br/>
-
-### 🐍 Contribution Grid Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VigneshNarala/VigneshNarala/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VigneshNarala/VigneshNarala/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VigneshNarala/VigneshNarala/output/github-contribution-grid-snake.svg" width="98%">
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <i>"Committed to building scalable architectures and intelligent systems that make a tangible impact."</i>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:4CC9F0&height=100&section=footer" alt="Footer" />
+
+  <!-- Social Badges -->
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <br/><br/>
+
+  <i>Building reliable systems with clean architecture, measurable impact, and thoughtful DX.</i>
+
 </div>
+
+---
+
+## 👋 About Me
+
+- Software Engineer specializing in **full‑stack web development** and backend architecture.  
+- Experienced in turning product requirements into scalable, observable systems.  
+- Passionate about developer experience, performance optimization, and clean APIs.  
+- Currently exploring **cloud‑native patterns, CI/CD automation, and production‑grade observability**.
+
+---
+
+## 🧠 Tech Stack & Skills
+
+<div align="center">
+
+  <!-- Skill Icons (skillicons.dev) -->
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,html,css,tailwind,redux,mongodb,postgres,redis,docker,aws,git,github,linux&perline=9" alt="Tech Stack" />
+
+</div>
+
+### Core Skills
+
+- **Frontend**: React, Next.js, TypeScript, modern UI patterns, responsive design  
+- **Backend**: Node.js, Express, REST/GraphQL APIs, authentication/authorization  
+- **Data & Infra**: MongoDB/Postgres, Redis, Docker, basic AWS (EC2, S3, RDS, Lambda)  
+- **Engineering**: CI/CD with GitHub Actions, testing, code reviews, documentation culture  
+
+---
+
+## 🏗 Featured Projects
+
+### 🔹 Project One · Production‑Ready Web App
+> Tech: React, Node.js, TypeScript, PostgreSQL, Docker
+
+- Designed and implemented a **modular service architecture** with clear boundaries and API contracts.  
+- Reduced page load and API latency by optimizing DB queries, caching hot paths, and profiling bottlenecks.  
+- Implemented robust authentication, role‑based access, and audit logging for traceability.
+
+---
+
+### 🔹 Project Two · Data & Analytics Platform
+> Tech: Node.js, Python, ETL pipelines, visualization
+
+- Built ingestion pipelines that **clean, aggregate, and visualize** data for decision‑making.  
+- Added monitoring and alerting on key jobs to keep data freshness and reliability high.  
+- Delivered dashboards and reports consumable by non‑technical stakeholders.
+
+---
+
+### 🔹 Project Three · Open Source / Developer Tools
+> Tech: CLI tooling, GitHub Actions, automation
+
+- Created tools that streamline developer workflows (scaffolding, codegen, CI helpers).  
+- Automated repetitive tasks with GitHub Actions to enforce code quality and consistency.  
+- Documented usage clearly to encourage adoption and contributions.
+
+---
+
+## 📊 Real‑Time GitHub Stats
+
+<div align="center">
+
+  <!-- GitHub Readme Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+
+  <br/><br/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+
+  <br/><br/>
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## ⚙️ Engineering Principles
+
+- **Impact first**: Optimize for reliability, performance, and maintainability over cleverness.  
+- **Observability**: Logs, metrics, and traces as first‑class citizens.  
+- **Automation**: CI/CD for builds, tests, linting, and deployments.  
+- **Collaboration**: Clear communication, reviews, and continuous learning.
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: [YOUR_NAME](https://www.linkedin.com/in/YOUR_LINKEDIN)  
+- 🧑‍💻 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
+- 📫 Email: `YOUR_EMAIL`  
+
+Open to roles involving **full‑stack engineering, platform/backend development, and developer tooling**.
