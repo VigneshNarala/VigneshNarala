@@ -1,137 +1,124 @@
 <!-- Hero Section -->
 <div align="center">
-  <h1>👋 Vignesh Narala</h1>
-  <h3>Full Stack Engineer | React Native Developer | Data Science Specialist | Robotics Lead</h3>
+  
+  <!-- Dynamic Typing Header -->
+  <a href="https://github.com/VigneshNarala">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Vignesh+Narala+👋;Full+Stack+Engineer;Robotics+Team+Lead;Data+Science+Enthusiast" alt="Typing SVG" />
+  </a>
 
-  <p align="center">
-    <strong>Building robust, high-performance systems at the intersection of web, mobile, AI, and autonomous hardware.</strong>
-  </p>
+  <p><i>Building systems that scale — from full‑stack applications and mobile clients to autonomous robotics.</i></p>
 
-  <!-- Badges -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/vignesh-narala-6959132ab/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-    </a>
-    <a href="mailto:vigneshnarala135@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-    </a>
-    <a href="https://github.com/VigneshNarala" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-    </a>
-  </p>
-</div>
-
----
-
-## ⚡ Executive Summary & Value Proposition
-
-I am a software engineer and robotics team lead specializing in building scalable web/mobile applications and optimizing embedded control systems. Leveraging a rigorous data science foundation, I engineer high-performance user interfaces, design intelligent backend systems, and write sub-millisecond execution loops for autonomous hardware.
-
----
-
-## 🚀 Professional Experience
-
-### **Full Stack Developer Trainee** | Technical Hub *(May 2025 – Mar 2026)*
-* **Scaled Architecture:** Spearheaded the development and deployment of **5+ production-grade MERN applications**, servicing both responsive web frontends and high-performance mobile clients.
-* **Latency Optimization:** Diagnosed and eliminated bottleneck queries and database constraints, driving a **43.7% reduction in API load times** (slashing latency from **3.2s down to 1.8s**).
-* **API Reliability:** Implemented structured RESTful APIs using schema validation, comprehensive logging, and robust error handlers to ensure 99.9% uptime and streamlined debugging.
-
-### **Robotics Team Lead** | Aditya University Robotics Club *(Oct 2024 – May 2025)*
-* **Agile Leadership:** Managed a cross-functional squad of **15 engineers** (spanning firmware, electronics, and mechanical design), employing Agile sprints to accelerate hardware integrations.
-* **Developer Mentorship:** Structured peer code review workflows and modular design patterns, boosting project release velocity by **~40%** and onboarding 8 junior developers.
-* **High-Accuracy Control:** Engineered autonomous robots capable of real-time maze mapping, line/edge tracking, and stable trajectory navigation in noisy, unstructured physical environments.
-
----
-
-## 🧠 Core Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,next,nodejs,express,html,css,tailwind,mongodb,mysql,python,cpp,java,tensorflow,linux,git,arduino,docker,aws&theme=light&perline=10" alt="Tech Stack Icons" />
+  <!-- Connect Badges -->
+  <a href="https://www.linkedin.com/in/vignesh-narala-6959132ab/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vigneshnarala135@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/VigneshNarala" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 <br/>
 
-* **Frontend & Mobile:** React, React Native, Next.js, Tailwind CSS, component-driven architecture, CSS Grid/Flexbox
-* **Backend & Systems:** Node.js, Express, REST APIs, MongoDB, MySQL, secure JWT/OAuth session management
-* **Data Science & AI:** Python, TensorFlow, data processing pipelines, predictive modeling, scoring algorithms
-* **Robotics & Embedded:** C/C++, Arduino SDK, PID loop controllers, sensor fusion, hardware-in-the-loop (HIL) testing
+<!-- About & Stats Split Section -->
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <h2>👨‍💻 About Me</h2>
+      I'm a <b>Full Stack Engineer</b> and <b>Robotics Team Lead</b> studying Computer Science (Data Science) at <b>Aditya University</b>. I specialize in bridging the gap between clean, scalable software architecture and real-world hardware execution. 
+      <br><br>
+      Whether I'm optimizing a React Native client, architecting a MongoDB database, or writing PID control logic for a maze-solving robot, I care deeply about performance and user experience.
+      <br><br>
+      🌱 <b>Currently Exploring:</b> Docker, AWS Cloud Architecture, and GitHub Actions (CI/CD)<br>
+      💡 <b>Philosophy:</b> Make complex systems feel simple for the end user.<br>
+      💬 <b>Ask me about:</b> The MERN stack, API query optimization, embedded systems, or Cricket match analysis! 🏏
+    </td>
+    <td valign="top" width="45%">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=VigneshNarala&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=888888" alt="GitHub Stats" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Selected Engineering Projects
-
-### 1️⃣ **SmartHire** | *AI-Driven Recruitment Engine*
-> **Stack:** React, React Native (Mobile Client), Next.js, Node.js, MongoDB, TensorFlow
-* Engineered a proprietary **Verified Skill Score** algorithm, parsing GitHub commit activity graphs and LinkedIn developer signals to quantify engineering proficiency.
-* Developed role-specific analytics dashboards for university placement cells, minimizing manual resume screening hours and enhancing **candidate-to-role matching accuracy**.
-* Designed unified REST endpoints to guarantee seamless data synchronization between desktop platforms and React Native applications.
-
-### 2️⃣ **Autonomous Robotics** | *Maze-Solver & High-Precision Tracker*
-> **Stack:** C, C++, Arduino SDK, Embedded Systems
-* Implemented a memory-optimized **Flood-Fill maze navigation algorithm**, producing **~95% pathfinding accuracy** and saving **30% execution time** compared to standard depth-first search.
-* Programmed multi-sensor ultrasonic arrays with sliding-window filters, driving an **80% reduction in collision frequency** within tight obstacle spaces.
-* Fine-tuned a customized **proportional-integral-derivative (PID) feedback loop**, yielding **±2mm tracking accuracy** and an **87.5% success rate** across uneven terrain.
-
-### 3️⃣ **High-Performance UIs** | *Skillhance & Interview Decoders*
-> **Stack:** HTML5, CSS3, ES6+ JavaScript
-* Restructured Critical Rendering Path (CRP) assets and style sheets, cutting **mobile DOM rendering time by ~25%**.
-* Established robust, schema-based client-side form validation, filtering out **~95% of malformed submissions** prior to network transport.
-* Crafted accessible, screen-reader-compliant user interfaces optimized for minimal Cumulative Layout Shift (CLS).
-
----
-
-## 📊 Engineering Telemetry & Activity
+## 🛠 Tech Stack & Tools
 
 <div align="center">
-  <!-- LeetCode & GitHub Stats -->
-  <p align="center">
-    <img src="https://leetcard.jacoblin.cool/VigneshNarala?theme=dark&font=Inter&ext=activity" alt="LeetCode Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=VigneshNarala&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=888888" alt="GitHub Stats" width="48%"/>
-  </p>
-
-  <!-- Streak & Activity Graph -->
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VigneshNarala&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=888888&sideLabels=888888&dates=888888" alt="GitHub Streak" width="98%"/>
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VigneshNarala&bg_color=transparent&color=FFFFFF&line=888888&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="98%"/>
-  </p>
-
-  <!-- Contribution Snake Animation -->
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VigneshNarala/VigneshNarala/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VigneshNarala/VigneshNarala/output/github-contribution-grid-snake.svg">
-      <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/VigneshNarala/VigneshNarala/output/github-contribution-grid-snake.svg" width="98%">
-    </picture>
-  </p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,next,nodejs,express,html,css,tailwind,mongodb,mysql,python,cpp,java,tensorflow,linux,git,arduino,docker,aws&theme=light&perline=10" alt="Tech Stack" />
 </div>
 
 ---
 
-## 🧭 Active Exploration & Skills Upgrades
+## 🚀 Highlighted Projects
 
-* 📱 **React Native:** Architecting shared-logic web/mobile codebases.
-* 🐳 **Docker:** Orchestrating reproducible developer workspaces and microservice environments.
-* ☁️ **AWS (EC2, S3, Lambda, API Gateway):** Deploying serverless backend APIs and data processing tasks.
-* 🤖 **CI/CD Pipelines:** Building GitHub Actions workflows for automated build testing, deployment, and model evaluation.
+### 🧠 SmartHire | *AI‑Driven Recruitment Engine*
+> **Stack:** React, Next.js, Node.js, Express, MongoDB, AI/ML
+* **The Problem:** University placement cells spend hundreds of hours manually screening candidates.
+* **The Solution:** Engineered a platform with role‑specific analytics dashboards and a proprietary **Verified Skill Score** that parses GitHub commit graphs and LinkedIn signals.
+* **Impact:** Drastically reduced manual screening effort and improved candidate-to-role matching accuracy. Designed the API surfaces to seamlessly support both web and future mobile clients.
+
+### 🤖 Autonomous Explorer | *Maze‑Solver & Edge‑Follower*
+> **Stack:** C, C++, Arduino, Embedded Systems
+* **The Engine:** Implemented Flood‑Fill maze navigation algorithms, achieving **~95% pathfinding accuracy** and cutting runtime by 30%.
+* **The Hardware:** Integrated ultrasonic sensor arrays to drop collision frequency by ~80% in high-density obstacles.
+* **The Control:** Developed a custom **PID controller** that delivered **±2mm tracking accuracy** and an 87.5% terrain success rate across varied environments.
+
+### ⚡ High‑Performance UI | *Skillhance & Interview Decoders*
+> **Stack:** HTML5, CSS3, Vanilla JavaScript
+* **Optimization:** Refactored CSS and layout strategies to slash mobile DOM rendering time by **~25%**.
+* **Data Integrity:** Wrote advanced client‑side form validation rules, preventing **~95%** of invalid submissions from ever hitting the backend server.
 
 ---
 
-## 💡 Beyond the Code
+## 💼 Engineering Experience
 
-* 💬 **Ask me about:** Feedback control theory, React Native navigation patterns, cleaning dirty dataset records, or how to tune PID coefficients.
-* ⚡ **Fun Fact:** I once debugged a physical robot's infrared sensor calibration at 3:00 AM using nothing but a smartphone flashlight and a strip of electrical tape!
+<details>
+  <summary><b>💻 Full Stack Developer Trainee | Technical Hub</b> <i>(May 2025 – Mar 2026)</i></summary>
+  <br/>
+  <ul>
+    <li>Architected and deployed <b>5+ scalable MERN applications</b> consumed via multiple web and mobile clients.</li>
+    <li>Profiled backend and database bottlenecks, achieving a <b>43.7% reduction in load time</b> (3.2s → 1.8s) through aggressive query optimization and caching.</li>
+    <li>Implemented RESTful APIs with strong validation, standardized logging, and error handling for easier debugging and scaling.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>⚙️ Robotics Team Lead | Aditya University Robotics Club</b> <i>(Oct 2024 – May 2025)</i></summary>
+  <br/>
+  <ul>
+    <li>Led a <b>15‑member cross‑functional team</b> spanning hardware, firmware, and software using Agile workflows.</li>
+    <li>Mentored 8 junior developers, driving delivery velocity up by <b>~40%</b> through code reviews, modular design, and strict testing standards.</li>
+    <li>Successfully delivered robots capable of navigating complex mazes and maintaining precise trajectories under noisy real‑world conditions.</li>
+  </ul>
+</details>
 
 ---
 
-## 🤝 Let's Connect
+## 📊 Developer Telemetry
 
-<p align="left">
-  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/vignesh-narala-6959132ab/">Vignesh Narala</a><br/>
-  🧑‍💻 <strong>GitHub:</strong> <a href="https://github.com/VigneshNarala">@VigneshNarala</a><br/>
-  📫 <strong>Email:</strong> <a href="mailto:vigneshnarala135@gmail.com">vigneshnarala135@gmail.com</a>
-</p>
+<div align="center">
 
-*If you are building complex products at the intersection of full-stack development, mobile UX, data science, and autonomous systems—let's build something world-class together.*
+  <!-- LeetCode Stats -->
+  <img src="https://leetcard.jacoblin.cool/VigneshNarala?theme=dark&font=Inter&ext=activity" alt="LeetCode Stats" width="48%" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VigneshNarala&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=888888&sideLabels=888888&dates=888888" alt="GitHub Streak" width="48%"/>
+
+  <br/><br/>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VigneshNarala&bg_color=transparent&color=FFFFFF&line=888888&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="98%"/>
+
+  <br/><br/>
+  
+  <!-- Contribution Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VigneshNarala/VigneshNarala/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VigneshNarala/VigneshNarala/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/VigneshNarala/VigneshNarala/output/github-contribution-grid-snake.svg" width="98%">
+  </picture>
+
+</div>
