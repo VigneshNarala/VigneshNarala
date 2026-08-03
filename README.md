@@ -1,14 +1,20 @@
-<!-- Hero Section with Dynamic Header -->
+<!-- Hero Section -->
 <div align="center">
   <a href="https://github.com/VigneshNarala">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=36&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Vignesh+Narala+👋;Full+Stack+Engineer+%7C+React+Native;Robotics+Team+Lead;Data+Science+Specialist" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Building robust, high-performance systems at the intersection of web, mobile, AI, and autonomous hardware.</strong>
+    <strong>Engineering robust, production-grade systems at the intersection of scalable software and autonomous hardware.</strong>
   </p>
 
-  <!-- Connect Badges -->
+  <!-- Role & Social Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Robotics-00F2FE?style=flat-square" alt="Focus Badge" />
+    <img src="https://img.shields.io/badge/Stack-MERN%20%7C%20React%20Native-blue?style=flat-square" alt="Stack Badge" />
+    <img src="https://img.shields.io/badge/Specialization-Data%20Science%20-yellowgreen?style=flat-square" alt="Specialization Badge" />
+  </p>
+
   <p align="center">
     <a href="https://www.linkedin.com/in/vignesh-narala-6959132ab/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -24,26 +30,30 @@
 
 <br/>
 
-<!-- About & Stats Split Section -->
-<table>
-  <tr>
-    <td valign="top" width="55%">
-      <h2>👨‍💻 About Me</h2>
-      I'm a <strong>Full Stack Engineer</strong> and <strong>Robotics Team Lead</strong> studying Computer Science (Data Science) at <strong>Aditya University</strong>. I specialize in bridging the gap between clean, scalable software architecture and real-world hardware execution.
-      <br><br>
-      Whether I'm optimizing a React Native client, architecting a MongoDB database, or writing PID control logic for a maze-solving robot, I care deeply about performance, latency, and user experience.
-      <br><br>
-      🌱 <strong>Currently Exploring:</strong> Docker, AWS Cloud Architecture, and GitHub Actions (CI/CD)<br>
-      💡 <strong>Philosophy:</strong> Make complex systems feel simple, fast, and delightful for the end user.<br>
-      💬 <strong>Ask me about:</strong> The MERN stack, API query optimization, embedded control loops, or Cricket match analysis! 🏏
-    </td>
-    <td valign="top" width="45%">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=VigneshNarala&show_icons=true&theme=transparent&hide_border=true&title_color=00F2FE&icon_color=00F2FE&text_color=888888" alt="GitHub Stats" />
-      </div>
-    </td>
-  </tr>
-</table>
+---
+
+## 👨‍💻 About Me
+
+* 🎓 **Academic Foundation:** Pursuing B.Tech in **Computer Science (Data Science)** @ Aditya University (CGPA 8.23).
+* ⚙️ **Systems Architect:** Specialize in bridging the gap between clean, high-performance web/mobile clients and physical, sub-millisecond hardware loop execution.
+* ⚡ **Performance Obsessed:** Whether optimizing MongoDB queries or tuning robot PID controller coefficients, I drive latency down and reliability up.
+* 💬 **Ask me about:** MERN backend optimization, mobile state management, PID loops, or Cricket match analytics! 🏏
+
+---
+
+## 💼 Engineering Experience
+
+### 💻 **Full Stack Developer Trainee** | Technical Hub
+*📅 May 2025 – Mar 2026*
+* **Scaled Distributed Apps:** Architected and deployed **5+ MERN applications** serving both web and React Native clients.
+* **Latency Reduction:** Analyzed complex query execution plans, dropping API load times by **43.7%** (from **3.2s down to 1.8s**).
+* **Robust Backend Design:** Integrated strict request schema validation, automated logging middleware, and standardized error-handling policies.
+
+### ⚙️ **Robotics Team Lead** | Aditya University Robotics Club
+*📅 Oct 2024 – May 2025*
+* **Team Orchestration:** Led a cross-functional team of **15 engineers** (spanning software, firmware, and hardware layouts) using Agile/Scrum.
+* **Velocity Improvement:** Mentored 8 junior developers and standardized modular architectural patterns, increasing delivery velocity by **~40%**.
+* **Precise Control Systems:** Designed, simulated, and deployed physical robots navigating real-world, noisy terrains.
 
 ---
 
@@ -53,74 +63,30 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,next,nodejs,express,html,css,tailwind,mongodb,mysql,python,cpp,java,tensorflow,linux,git,arduino,docker,aws&theme=light&perline=10" alt="Tech Stack" />
 </div>
 
----
-
-## 🚀 Featured Engineering Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 SmartHire</h3>
-      <strong>AI-Driven Recruitment Engine</strong>
-      <br/>
-      <code>React</code> <code>Next.js</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>AI/ML</code>
-      <ul>
-        <li>Engineered a proprietary <strong>Verified Skill Score</strong> algorithm parsing GitHub commit graphs and LinkedIn developer signals to validate technical proficiency.</li>
-        <li>Built analytics dashboards for placement cells, reducing manual screening hours and enhancing <strong>candidate-to-role matching accuracy</strong>.</li>
-        <li>Designed unified REST endpoints to guarantee seamless data sync between web and React Native mobile clients.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Autonomous Explorer</h3>
-      <strong>Maze-Solver & High-Precision Tracker</strong>
-      <br/>
-      <code>C</code> <code>C++</code> <code>Arduino SDK</code> <code>Embedded Systems</code>
-      <ul>
-        <li>Implemented <strong>Flood-Fill maze navigation</strong>, producing <strong>~95% pathfinding accuracy</strong> and cutting runtime by <strong>30%</strong>.</li>
-        <li>Integrated multi-sensor ultrasonic arrays with sliding-window filters, driving an <strong>80% reduction in collision frequency</strong>.</li>
-        <li>Fine-tuned a custom <strong>PID feedback loop</strong> yielding <strong>±2mm tracking accuracy</strong> and an <strong>87.5% success rate</strong> across varied terrains.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>⚡ High-Performance Interfaces</h3>
-      <strong>Skillhance & Interview Decoders</strong>
-      <br/>
-      <code>HTML5</code> <code>CSS3</code> <code>ES6+ JavaScript</code>
-      <ul>
-        <li>Restructured style sheet delivery and layout architecture to slash mobile rendering time by <strong>~25%</strong>.</li>
-        <li>Developed robust client-side form validation rules, filtering out <strong>~95% of invalid/malformed submissions</strong> before hitting the backend server.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🗂️ Categorized Skills
+- **Frontend & Mobile:** React, React Native, Next.js, HTML5, CSS3, Tailwind CSS, Component-Driven UIs
+- **Backend & Databases:** Node.js, Express, RESTful APIs, MongoDB, MySQL, JWT & Session Security
+- **AI & Data Science:** Python, TensorFlow, Machine Learning Pipelines, Predictive Modeling, Data Analysis
+- **Robotics & Firmware:** C/C++, Arduino SDK, PID Feedback Controls, Sensor Fusion (Ultrasonic, IR Arrays)
 
 ---
 
-## 💼 Engineering Experience
+## 🚀 Highlighted Projects
 
-<details open>
-  <summary><b>💻 Full Stack Developer Trainee | Technical Hub</b> <i>(May 2025 – Mar 2026)</i></summary>
-  <br/>
-  <ul>
-    <li>Architected and deployed <strong>5+ production-grade MERN applications</strong> consumed via multiple responsive web and mobile clients.</li>
-    <li>Profiled backend and database bottlenecks, achieving a <strong>43.7% reduction in API load times</strong> (3.2s → 1.8s) through aggressive query optimization and caching.</li>
-    <li>Implemented RESTful APIs with strict schema validation, comprehensive logging, and robust error handlers to ensure 99.9% uptime.</li>
-  </ul>
-</details>
+### 🧠 **SmartHire** | *AI-Driven Recruitment Engine*
+* **Tech Stack:** `React` `Next.js` `Node.js` `Express` `MongoDB` `AI/ML`
+* **The Solution:** Engineered a secure placement portal hosting role-specific analytics dashboards and a proprietary **Verified Skill Score** parsing GitHub commit logs.
+* **Impact:** Drastically minimized screening pipelines for placement cells, optimizing candidate-to-role matching accuracy.
 
-<br/>
+### 🤖 **Autonomous Explorer** | *Maze-Solver & High-Precision Tracker*
+* **Tech Stack:** `C` `C++` `Arduino SDK` `Embedded Systems`
+* **The Solution:** Developed a memory-optimized **Flood-Fill maze navigation algorithm** with **~95% pathfinding accuracy**, reducing search runtimes by **30%**.
+* **Impact:** Reduced collision frequency by **~80%** using ultrasonic sensor array filters and maintained **±2mm tracking accuracy** via a fine-tuned PID control loop.
 
-<details open>
-  <summary><b>⚙️ Robotics Team Lead | Aditya University Robotics Club</b> <i>(Oct 2024 – May 2025)</i></summary>
-  <br/>
-  <ul>
-    <li>Led a <strong>15-member cross-functional squad</strong> (firmware, hardware, and mechanical engineers) using Agile/Scrum methodologies.</li>
-    <li>Mentored 8 junior developers, accelerating release and integration velocity by <strong>~40%</strong> through peer review structures and modular architecture.</li>
-    <li>Delivered robots capable of real-time maze mapping, line/edge tracking, and stable trajectory navigation under noisy physical environments.</li>
-  </ul>
-</details>
+### ⚡ **High-Performance UIs** | *Skillhance & Interview Decoders*
+* **Tech Stack:** `HTML5` `CSS3` `Vanilla JavaScript`
+* **The Solution:** Restructured layout models, DOM layouts, and style delivery paths.
+* **Impact:** Slashed mobile DOM rendering time by **~25%** and eliminated **~95%** of malformed inputs prior to server-side ingestion.
 
 ---
 
@@ -156,17 +122,19 @@
 
 ---
 
-## ⚡ Beyond The Code
+## 🧭 Currently Exploring
 
-* ⚡ **Fun Fact:** I once debugged a physical robot's infrared sensor calibration at 3:00 AM using nothing but a smartphone flashlight and a strip of electrical tape!
-* 🧩 **Open Source Philosophy:** Write clean, self-documenting code, design with modularity in mind, and automate everything that can be automated.
+* 📱 **React Native:** Structuring unified, logic-shared web/mobile apps.
+* 🐳 **Docker:** Orchestrating reproducible developer workspaces and containerized services.
+* ☁️ **AWS Cloud Architectures:** Deploying serverless backend APIs via Lambda, API Gateway, EC2, and S3.
+* 🤖 **CI/CD Pipelines:** Building GitHub Actions workflows for automated build verification and deployment.
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Let’s Connect
 
 <div align="center">
-  <p>If you're building products at the intersection of full-stack web/mobile, data science, or autonomous hardware, I'd love to chat.</p>
+  <p>If you're building products at the intersection of full-stack engineering, data science, or autonomous robotics, let's build something world-class together.</p>
   
   <a href="https://www.linkedin.com/in/vignesh-narala-6959132ab/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
