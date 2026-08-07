@@ -619,12 +619,15 @@ I am open to full-stack engineering opportunities, mobile application developmen
 </div>
 
 <br/>
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 <!-- Footer Capsule Render Wave Animation -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=120&section=footer" alt="Footer Wave" />
 =======
+=======
+>>>>>>> ac02871 (19th_one)
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=120&section=footer"
