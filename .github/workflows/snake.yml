@@ -1,5 +1,4 @@
 name: Generate Contribution Snake
-
 on:
   schedule:
     # Runs once every day at 00:00 UTC
